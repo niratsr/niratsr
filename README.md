@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niratsr
+- 👋 Hi, I’m Nirat
 - 👀 I’m interested in using data-driven insights to grow businesses 
 - 🌱 I’m currently learning python and SQL 
 - 💞️ I’m looking to collaborate on cool innovative projects! 
